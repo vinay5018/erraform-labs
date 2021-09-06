@@ -1,0 +1,4 @@
+resource "core" "core1" {
+  
+}
+
